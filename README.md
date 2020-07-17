@@ -20,7 +20,10 @@ various factors: suicide rate;family;life expectancy;freedom;trust in government
 Happiness score comparison of different continents
 Scatter plot with regression line & colored by region
 3D Plot; bar plot;pie plot
+
+
 World Happiness Column and Region Breakdown for reference: 
 	https://docs.google.com/document/d/1EwxxF0piPu1rpkob83IUDZAqWdusndnp/edit
-	Courtesy of: Carolina
+	
+	
 Link to google doc of project layout: https://docs.google.com/document/d/1AZVOHegaXbIyob34AQvlaZ9HYyKtbOxR/edit
