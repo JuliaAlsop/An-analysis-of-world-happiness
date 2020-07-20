@@ -27,3 +27,6 @@ World Happiness Column and Region Breakdown for reference:
 	
 	
 Link to google doc of project layout: https://docs.google.com/document/d/1AZVOHegaXbIyob34AQvlaZ9HYyKtbOxR/edit
+
+
+Link to google powerpoint for project presentation:https://docs.google.com/presentation/d/1oBeE2RT4tqYoBMad9c6XmCku2n0RgMhRCOBSGT01BDo/edit#slide=id.p
