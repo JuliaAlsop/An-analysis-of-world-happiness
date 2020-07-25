@@ -1,8 +1,12 @@
 # Project1
 Project 1: An Analysis of World Happiness 
 
-Analyst Members: Tamela Allen, Julia Alsop, Carolina Miranda, & Anna Zhang
+Analyst Members: Julia Alsop, Carolina Miranda, & Anna Zhang
 
+Data Analysis LOCATED in COLLECTIVE folder
+Data Clean up process LOCATED in COLLECTIVE folder 
+Images of each graph LOCATED in COLLECTIVE folder, IMAGES folder 
+Write-Up Summary; Powerpoint; Proposal LOCATED in google links BELOW in README
 
 Purpose of Project: To define collective happiness as a quantifiable index based on 2017 World 
 Happiness Index; Population data and Suicide data.
